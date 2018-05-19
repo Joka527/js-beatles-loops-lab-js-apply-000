@@ -19,7 +19,11 @@ function theBeatlesPlay(musicians, instruments){
   }
   
   function iLoveTheBeatles(n){
-    let loveBeatlesarr=[]; 
-    
-    return
+    let loveBeatlesArr=[]; 
+    let i=0;
+    do{
+      loveBeatlesArr.push("I love the Beatles!");
+      i++;
+    }while(i<=n);
+    return loveBeatlesArr;
   }
