@@ -7,7 +7,7 @@ function theBeatlesPlay(musicians, instruments){
        sentence+=instruments[i];
     }
     
-    setences.push();
+    sentences.push();
   }
   return sentences;
 }
