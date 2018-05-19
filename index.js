@@ -23,6 +23,7 @@ function theBeatlesPlay(musicians, instruments){
     let i=0;
     do{
       loveBeatlesArr.push("I love the Beatles!");
+      if(n>15)return loveBeatlesArr;
       i++;
     }while(i<=n);
     return loveBeatlesArr;
