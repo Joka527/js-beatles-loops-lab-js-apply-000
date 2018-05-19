@@ -8,8 +8,10 @@ function theBeatlesPlay(musicians, instruments){
   return sentences;
 }
 
-function johnLennonFacts(arrayArgs){
-  let arrayWithEx=[];
-  for
-  return 
-}
+// function johnLennonFacts(arrayArgs){
+//   let arrayWithEx=[];
+//   for(let i=0; arrayArgs.length>i; i++){
+
+//   }
+//   return 
+// }
